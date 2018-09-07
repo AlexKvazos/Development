@@ -1,9 +1,0 @@
-export EDITOR='vim'
-
-alias git="hub"
-alias vtop="vtop -t acid"
-alias l="ls -lh"
-alias cleare="clear; and screenfetch -E"
-
-set -g theme_short_path yes
-set -g theme_project_dir_length 0
