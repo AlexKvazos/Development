@@ -1,0 +1,8 @@
+// SublimeLinter Settings - User
+{
+  "syntax_map": {"naomi.fjsx15": "javascript" },
+  "show_panel_on_save": "view",
+  "paths": {
+    "osx": ["/Users/alex/.npm-global/bin"]
+  }
+}

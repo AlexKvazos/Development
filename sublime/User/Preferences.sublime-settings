@@ -1,0 +1,47 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).tmTheme",
+	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_face": "Operator Mono Book",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_top": 2,
+	"mini_diff": "auto",
+	"monokai_pro_highlight_open_folders": true,
+	"monokai_pro_sidebar_font_size": 13,
+	"monokai_pro_sidebar_row_padding": 4,
+	"monokai_pro_small_scrollbar": true,
+	"monokai_pro_style_title_bar": true,
+	"monokai_pro_ui_font_face": "Operator Mono Light",
+	"rulers":
+	[
+		80,
+		100
+	],
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Monokai Pro (Filter Octagon).sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"word_wrap": false
+}
